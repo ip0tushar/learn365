@@ -1,2 +1,11 @@
 -I have learned how a hacker (@hakluke) create a bash script for finding subdomain takeover over wide range of domains
 https://hakluke.medium.com/how-to-setup-an-automated-sub-domain-takeover-scanner-for-all-bug-bounty-programs-in-5-minutes-3562eb621db3
+
+-how to use SED in bash (automating script really help in the long run)
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+https://www.geeksforgeeks.org/sed-command-linux-set-2/
+
+-how someone learn python that easy(prior experience with C)
+https://sn0xsharma.medium.com/automation-using-python-in-bug-bountys-full-practical-explanation-e1e694c43f78
+
+
